@@ -1,3 +1,0 @@
-#游戏机补丁包校验
-v0.94a2		4c0bcb0bdf01b348b85fc1dbdabd70c2
-v0.94a1		36e73b464c71aeaa4502a31bd909f43b
